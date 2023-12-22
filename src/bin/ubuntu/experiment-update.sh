@@ -1,0 +1,1 @@
+echo "test" > "/media/nick/experiment/a.txt"

@@ -1,0 +1,1 @@
+mv "/home/nick/b.txt" "/media/nick/experiment/a.txt"

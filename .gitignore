@@ -1,0 +1,11 @@
+*.bin
+*.img
+*.bitmap
+code/third_party/*
+*.log
+__pycache__
+*.db
+*.db-journal
+report.log
+.vscode/*
+.env

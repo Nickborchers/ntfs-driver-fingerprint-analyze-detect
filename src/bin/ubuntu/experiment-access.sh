@@ -1,0 +1,1 @@
+cat "/media/nick/experiment/a.txt"

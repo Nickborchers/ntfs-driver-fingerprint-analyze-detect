@@ -1,0 +1,1 @@
+rm "/media/nick/experiment/a.txt"
